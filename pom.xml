@@ -17,6 +17,10 @@
 			<id>wicket-snaps</id>
 			<url>http://wicketstuff.org/maven/repository</url>
 		</repository>
+        <repository>
+			<id>no-exist</id>
+			<url>http://no-commons-logging.zapto.org/mvn2/</url>
+		</repository>
  	</repositories>
 
     <dependencies>
