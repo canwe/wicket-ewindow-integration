@@ -1,0 +1,16 @@
+<div>
+    <div>
+        <h1>${subtitle}</h1>
+    </div>
+    <div>
+        <p>
+            ${description}
+        </p>
+    </div>
+    <div>
+        <p>
+            ${about}
+        </p>
+    </div>
+    <br/>
+</div>
